@@ -27,7 +27,7 @@ class CPrime extends Thread {
 
 	public void run() {
 		prime();
-		System.out.println(id + " ªº½è¼Æ¦³ " + count + " ­Ó");
+		System.out.println(id + " ÂªÂºÂ½Ã¨Â¼Ã†Â¦Â³ " + count + " Â­Ã“");
 	}
 }
 
@@ -40,3 +40,5 @@ public class Class16 {
 		p2.start();
 	}
 }
+//(a)2~100000
+//(b)2~100000
